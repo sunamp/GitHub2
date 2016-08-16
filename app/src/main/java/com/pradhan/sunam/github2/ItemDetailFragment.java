@@ -34,6 +34,7 @@ public class ItemDetailFragment extends Fragment {
      * fragment (e.g. upon screen orientation changes).
      */
     public ItemDetailFragment() {
+        // some comments
     }
 
     @Override
